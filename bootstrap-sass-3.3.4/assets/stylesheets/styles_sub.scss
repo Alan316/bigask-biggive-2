@@ -1,0 +1,38 @@
+$green: #003300;
+$orange: rgba(241, 96, 37, .99);
+
+$bodyCopy: normal lighter 1.1em/1.3em "nimbus-sans",arial,sans-serif;
+$Heading1: bold 1.7em/.8em "nimbus-sans",arial,sans-serif;
+$Heading2: bold 2.2em/.8em "nimbus-sans",arial,sans-serif;
+
+div.liveTextWrapper2 {
+  background-color: white;
+  border-radius: 14px;
+  border: 5px solid #bbb;
+  padding: 20px;
+  min-height: 40%;
+  margin-bottom: 90px;
+}
+
+
+.The2, .Big2, .Give2 {
+	color: $green;
+	font-size: 5em;
+}
+
+.liveTextArea2{
+	margin: 2.0em;
+	font: $bodyCopy;
+    margin-bottom: 150px;
+ }
+
+.h3_sub{
+	font: $Heading1;
+}
+
+.h2_sub{
+	font: $Heading2;
+	color: $orange;
+}
+
+
