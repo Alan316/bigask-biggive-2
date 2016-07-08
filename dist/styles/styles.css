@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  width: 100%; }
+
+.container-fluid {
+  padding: 0; }
+
+.navbar {
+  padding: 15px;
+  border-radius: 0;
+  z-index: 12;
+  position: absolute; }
+
+.moveUp {
+  top: -100px; }
+
+.bg-ask {
+  background-color: #F15E22;
+  width: 50%; }
+
+.bg-give {
+  background-color: #048499;
+  width: 50%; }
+
+.containerTable {
+  display: table;
+  height: 100%;
+  width: 100%; }
+
+.tableCell {
+  display: table-cell;
+  height: 100%; }
+
+header {
+  z-index: 1;
+  position: relative; }
+
+/*@media (max-width: 768px) 
+    { .tableCell{ display:table-row; height:50%;}  }*/
+
+/*# sourceMappingURL=styles.css.map */
